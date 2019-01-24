@@ -9,4 +9,3 @@ function showRepositories() {
   //this is set to the XMLHttpRequest object that fired the event
   console.log(this.responseText);
 }
-
